@@ -1,0 +1,7 @@
+/venv
+cleaned_ecommerce_data.json
+cleaned_ecommerce_data.csv
+aggregated_sales_by_car_make.csv
+ecommerce_data.csv
+*.csv
+ecommerce_data.db
